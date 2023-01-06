@@ -1,0 +1,15 @@
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\CSharpLesson2.csproj.AssemblyReference.cache
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\CSharpLesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\CSharpLesson2.AssemblyInfoInputs.cache
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\CSharpLesson2.AssemblyInfo.cs
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\CSharpLesson2.csproj.CoreCompileInputs.cache
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\bin\Debug\net6.0\CSharpLesson2.exe
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\bin\Debug\net6.0\CSharpLesson2.deps.json
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\bin\Debug\net6.0\CSharpLesson2.runtimeconfig.json
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\bin\Debug\net6.0\CSharpLesson2.dll
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\bin\Debug\net6.0\CSharpLesson2.pdb
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\CSharpLesson2.dll
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\refint\CSharpLesson2.dll
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\CSharpLesson2.pdb
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\CSharpLesson2.genruntimeconfig.cache
+C:\Users\ברלין שולמית\Desktop\CSharpLesson2\CSharpLesson2\obj\Debug\net6.0\ref\CSharpLesson2.dll

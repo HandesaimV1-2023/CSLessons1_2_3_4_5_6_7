@@ -1,0 +1,17 @@
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\bin\Debug\net6.0-windows\Lesson4_group1.exe
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\bin\Debug\net6.0-windows\Lesson4_group1.deps.json
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\bin\Debug\net6.0-windows\Lesson4_group1.runtimeconfig.json
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\bin\Debug\net6.0-windows\Lesson4_group1.dll
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\bin\Debug\net6.0-windows\ref\Lesson4_group1.dll
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\bin\Debug\net6.0-windows\Lesson4_group1.pdb
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.csproj.AssemblyReference.cache
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.Form1.resources
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.csproj.GenerateResource.cache
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.AssemblyInfoInputs.cache
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.AssemblyInfo.cs
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.csproj.CoreCompileInputs.cache
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.dll
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\ref\Lesson4_group1.dll
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.pdb
+C:\Users\ברלין שולמית\Desktop\Lesson4_group1\Lesson4_group1\obj\Debug\net6.0-windows\Lesson4_group1.genruntimeconfig.cache
